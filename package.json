@@ -29,7 +29,7 @@
     "@excalidraw/excalidraw": "0.12.0",
     "archiver": "5.3.1",
     "async-mutex": "0.4.0",
-    "axios": "0.27.2",
+    "axios": "1.6.0",
     "better-sqlite3": "7.4.5",
     "chokidar": "3.5.3",
     "cls-hooked": "4.2.2",
